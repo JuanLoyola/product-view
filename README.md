@@ -1,24 +1,13 @@
-# product-view
+# Juan Loyola Product View/Product Card
+This repository is a practice as a way to try out new things
 
-## Project setup
-```
-npm install
-```
+# Tools 
+* HTML5
+* CSS3
+* Javascript with Vue.js 3 framework
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Desktop preview:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<img src="https://i.imgur.com/FBIjRvI.png" alt="desktop preview">
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# It does not have a mobile view, as it was a quick exercise to test ideas.
