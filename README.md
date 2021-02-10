@@ -8,6 +8,10 @@ This repository is a practice as a way to try out new things
 
 # Desktop preview:
 
-<img src="https://i.imgur.com/FBIjRvI.png" alt="desktop preview">
+<img src="https://i.imgur.com/UwuCcDw.png" alt="desktop preview">
 
-# It does not have a mobile view, as it was a quick exercise to test ideas.
+# Mobile preview:
+oops!.. No mobile preview, only for desktop resolution in this project. 😉
+
+# See the live here:
+<a href="https://product-card-view.netlify.app" target="_blank">Click me</a>
