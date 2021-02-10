@@ -8,7 +8,7 @@ This repository is a practice as a way to try out new things
 
 # Desktop preview:
 
-<img src="https://i.imgur.com/UwuCcDw.png" alt="desktop preview">
+<img src="https://i.imgur.com/FBIjRvI.png" alt="desktop preview">
 
 # Mobile preview:
 oops!.. No mobile preview, only for desktop resolution in this project. 😉
